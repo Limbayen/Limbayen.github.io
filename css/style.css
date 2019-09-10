@@ -59,7 +59,8 @@ footer.page-footer {
   background-color: rgba(0, 0, 0, 0.7)
 }
 .parallax img{
-  height: 160%;
+  /* height: 160%; */
+  height: 120%;
   opacity: 0.6 !important;
   
   object-fit: cover;
