@@ -60,7 +60,7 @@ footer.page-footer {
 }
 .parallax img{
   /* height: 160%; */
-  height: 140%;
+  height: 160%;
   opacity: 0.6 !important;
   
   object-fit: cover;
